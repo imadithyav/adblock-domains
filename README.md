@@ -1,4 +1,6 @@
-# adblock-hosts and configuration profiles 
+# adblock-hosts
+Major hosts files are merged into a single file
+# configuration profiles 
 ## For Apple Ecosystem
 To block ads across your Apple ecosystem (iOS, iPadOS, and macOS) using DNS over HTTPS (DoH) via RethinkDNS, you are essentially routing your internet traffic through a "filter" that ignores requests from known ad servers.
 ### Implementation Steps
