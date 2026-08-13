@@ -1,0 +1,608 @@
+a2z.com
+aiv-delivery.net
+pop-iad-2.cf.dash.row.aiv-cdn.net
+row.aiv-cdn.net
+abgob6maaaaaaaampnylpftaarvzo.pop-dub-ww.cf.dash.row.aiv-cdn.net
+globetel.fi
+iubenda.com
+usercentrics.eu
+privacy-mgmt.com
+cdn-cookieyes.com
+otBannerSdk.js
+everyeye.it
+cdn-assets.pubtech.ai
+pubtech-cmp-v2*.js
+otSDKStub.js
+assets.poool.fr
+assets.poool-subscribe.fr
+cookiebot.com
+qc-cmp2-container
+cipa-accept-btn
+holding.wp.pl
+://facebook.com
+://instagram.com
+devtools-detector.js
+abstream.to
+spoiler.js
+bitcine.app
+cineby.app
+://verizon.com
+bflix.*
+moflix-stream.day
+world-novel.fr
+disable-devtool
+naturalhomes.org
+doubleclick.net
+abcya.com
+failed_ad_view.js
+invoke.js
+doubleclick
+nitropay.com
+holyclock.com
+shomershabes.com
+shomershabes.co.il
+doubleclick.net
+unknowncheats.me
+particles.min.js
+adsrt.com
+uol.com.br
+oggiscuola.com
+ancient.eu
+masternodes.pro
+ad-blocker
+ab_detected
+adBlockEnabled
+blocker
+adblock
+Drupal.behaviors.detectAdblockers
+justtrucks.com.au
+pmc-plugins
+deadline.com
+abcya.com
+failed_ad_view.js
+asiaflix.net
+pro-modal
+googlesyndication
+AdBlocker
+iGSupport
+report-ad
+adblockBanner
+steadyAdblockContainer
+foxnews.com
+ flagle.io
+__ADB_COOLDOWN__
+roleplayer.me
+nitropay.com
+th.gl
+shomershabes.co.il
+minecraftforge.net
+://mademyday.com
+ experts-exchange.com
+ Druid
+ filefox.cc
+ visionias.net
+ ThriveGlobal
+99bitcoins.com
+ blazemedia_adBlock
+punto-informatico.it
+ uol.com.br
+ umterps.com
+ cars.com
+ pelis24.me
+ warringtonguardian.co.uk
+ oggiscuola.com
+ zerohedge.com
+ racefans.net
+ eca-anime.net
+ gazetadopovo.com.br
+ gaypornmasters.com
+ nebula.session.flags.adblock
+ gearside.com
+ braziljournal.com
+ emol.com
+ radioline.co
+ voirfilms.*
+ nytimes.com
+ xiaomitoday.com
+ mixmods.com.br
+ columbiaspectator.com
+ classicreload.com
+ jusbrasil.com.br
+ descarga-animex.*
+ deezer.com
+ tvtropes.g
+ springfieldspringfield.co.uk
+ looknews
+ juancarlosmolinos.net
+ stoneyroads.com
+ pokemonforever.com
+ businessemailetiquette.com
+ liveonsat.com
+ bucketpages.com
+ xiaomi4mi.com
+ evades.io
+ orlygift.com
+ heroescommunity.com
+ navcomic.com
+ steptalk.org
+ short-story.net
+ hindi-gk.com
+ upsrtconline.co.in
+ newsbook.pl
+ cmg24.pl
+ carsguide.com.au
+ dermatologytimes.com
+ motherjones.com
+ boerse-express.com
+ kurazone.net
+ techtrickseo.com
+ videohelp.com
+ calorielijst.nl
+ humo.be
+ polygon.com
+ ://indiatimes.com
+ timponline.ro
+ numberempire.com
+ ://blogspot.com
+ neobux.com
+ qualityfilehosting.com
+ ideapod.com
+ androidmtk.com
+ dba-oracle.com
+ apornstories.com
+ randomstory.org
+ booksmedicos.org
+ proxfree.com
+ siliconinvestor.com
+ jobsbotswana.info
+ algosit.com
+ republicadecuritiba.net
+ merchoid.com
+ gaypornwave.com
+ topspeed.com
+ mywrestling.com.pl
+ webwereld.nl
+ deadline.com
+ sbenny.com
+ howjsay.com
+ vpnmentor.com
+ informagiovani-italia.com
+ bigleaguepolitics.com
+ techsupportall.com
+ badayak.com
+ fin24.com
+ djelfa.info
+ palemoon.org
+ portableapps.com
+ animeunity.it
+ theartofnakedwoman.*
+ j-lyric.net
+ cagesideseats.com
+ christmasify
+ space-engineers.de
+ motogon.ru
+ soundonsound.com
+ jrocknews.com
+ aulete.com.br
+ npnews24.com
+ runningnews.gr
+ gordiando.com.br
+ mercurynews.com
+ megawypas.com
+ wheel-size.com
+ creditonebank.com
+ demolandia.net
+ kirannewsagency.com
+ aoezone.net
+ otempo.com.br
+ meteo.org.pl
+ r7.com
+ ://blogspot.com
+ fordogtrainers.pl
+ clk.sh
+ shrinkearn.com
+ europixhd.*
+ topeuropix.*
+ fanfiction.net
+ fictionpress.com
+ xnxx.com
+ ://googlesyndication.com
+ radioony.fm
+ polskacanada.com
+ lugarcerto.com.br
+ windowscentral.com
+ gezimanya.com
+ starsunfolded.com
+ cmjornal.pt
+ randaris.app
+ ctrl.blog
+ coffeeforums.co.uk
+ nachrichten.at
+ heroesneverdie.com
+ wader.toys
+ satcesc.com
+ mexiconewsdaily.com
+ technologyreview.com
+ curbed.com
+ eater.com
+ funnyordie.com
+ mmafighting.com
+ mmamania.com
+ polygon.com
+ racked.com
+ riftherald.com
+ sbnation.com
+ theverge.com
+ vox.com
+ bdcraft.net
+ athletic.net
+ yellowbridge.com
+ diynetwork.com
+ tapatalk.com
+ bloombergquint.com
+ instagram.com
+ ://facebook.com
+ ://instagram.com
+ eppingforestguardian.co.uk
+ ://snidigital.com
+ diffnow.com
+ ://opera.com
+ askubuntu.com
+ mathoverflow.net
+ serverfault.com
+ stackapps.com
+ stackexchange.com
+ superuser.com
+ mrfood.com
+ thredup.com
+ quizlet.com
+ feedspot.com
+ volunteermatch.org
+ theclever.com
+ ://evernote.com
+ prestashop.com
+ bookbub.com
+ ndtv.com
+ facebook.com
+ ://facebook.com
+ m://facebook.com
+ quora.com
+ tecnotutoshd.net
+ ruwix.com
+ revolvermag.com
+ emma-content-aggregates-prd
+ knowablemagazine.org
+ insidesources.com
+ flashbak.com
+ geneticliteracyproject.org
+ marijuanamoment.net
+ naturalblaze.com
+ saludmovil.com
+ thebaffler.com
+ undark.org
+ wealthydoc.org
+ banglainsider.com
+ airfactsjournal.com
+ newmatilda.com
+ kqed.org
+ behance.net
+ zulily.com
+ kpopjjang.com
+ fantricks.com
+ steelersdepot.com
+ musicbusinessworldwide.com
+ listatv.pl
+ dzwignice.info
+ rp5.by
+ psychologiazycia.com
+ bibliacatolica.com.br
+ script-stack.com
+ mio.to
+ priberam.org
+ thedisconnect.co
+ breakingdefense.com
+ theintercept.com
+ salary.com
+ fearlesssalarynegotiation.com
+ postandcourier.com.pg
+ spellcheck.net
+ spellchecker.net
+ spellweb.com
+ bioep.js
+ tomshw.it
+ wizcase.com
+ ionos.de
+ yoututosjeff.es
+ autoblog.com
+ emeraldchat.com
+ cepuluh.com
+ globalnews.ca
+ dailymail.co.uk
+ fmovies.*
+ software-on.com
+ linkedin.com
+ l2gamers.cl
+ husseinezzat.com
+ wired.co.uk
+ androidcentral.com
+ polygon.com
+ twinkietown.com
+ statelibrary.us
+ dcdirtylaundry.com
+ sostariffe.it
+ amlesson.ru
+ infomoney.com.br
+ playonlinux.com
+ tabonitobrasil.*
+ tunovelaligera.com
+ auepaisagismo.com
+ auepaisajismo.com
+ zdnet.de
+ cinemablend.com
+ bigulnews.tv
+ metabattle.com
+ targetstudy.com
+ discordapp.com
+ gq-magazine.co.uk
+ turbolab.it
+ medicalnewstoday.com
+ ://youtube.com
+ ://youtube.com
+ ://youtube.com
+ ://youtube.com
+ youtubekids.com
+ buienradar.nl
+ lightboxcdn.com
+ foreignpolicy.com
+ luoghidavedere.it
+ msn.com
+ glamourmagazine.co.uk
+ 9xbuddy.com
+ megatube.xxx
+ dostfilms.*
+ kimovil.*
+ taxo-acc.pl
+ lookmovie.ag
+ chimica-online.it
+ coag.pl
+ quicksleeper.pl
+ dispatch.com
+ elektro-plast.com.pl
+ lifo.gr
+ australianfrequentflyer.com.au
+ ://mysql.com
+ context.reverso.net
+ hardware.info
+ med1.de
+ mentalmars.com
+ neowin.net
+ lexlog.pl
+ independent.ie
+ softwaretestinghelp.com
+ nzz.ch
+ watson.de
+ watson.ch
+ babel.com
+ airbnbhell.com
+ clk.ink
+ smashboards.com
+ yeane.org
+ bitblokes.de
+ recantodasletras.com.br
+ cloudjs.com
+ starblast.io
+ vedbex.com
+ files2zip.com
+ enotes.com
+ mtbtutoriales.com
+ wired.com
+ ://chosun.com
+ portalwrc.pl
+ belfasttelegraph.co.uk
+ answersafrica.com
+ content-protector-pack
+ tomsguide.com
+ flightaware.com
+ lesoir.be
+ xe.gr
+ typing-speed.net
+ plagiarisma.net
+ felico.pl
+ practicetestgeeks.com
+ bold.dk
+ liverpool.no
+ mainframestechhelp.com
+ mainframegurukul.com
+ as.com
+ digicular.com
+ badzjeszczelepszy.pl
+ androidweblog.com
+ pureinfotech.com
+ fairyabc.com
+ chowhound.com
+ vedbex.com
+ portalportuario.cl
+ r7.com
+ cronista.com
+ gamershit.altervista.org
+ minecraft-schematics.com
+ theitaliantimes.it
+ gagetmatome.com
+ anisubindo.video
+ mbahhanif.site
+ dumpert.nl
+ beinsports.com
+ mizonatv.com
+ serwis-zamkow.com
+ nakedcapitalism.com
+ govtech.com
+ lublin.eu
+ tekloggers.com
+ molineuxmix.co.uk
+ foxnews.com
+ google-funding-choices.js
+ nfltraderumors.co
+ blog.kwick.de
+ windows101tricks.com
+ virpe.com
+ dreamlandresort.com
+ hebrew4christians.com
+ musixmatch.com
+ ecosia.org
+ ://blogspot.com
+ canondrivers.org
+ skidrowreloaded.com
+ adevarul.ro
+ hindipix.*
+ kusonime.com
+ otakudesu.org
+ maskmagazine.com
+ fcportables.com
+ estadao.com.br
+ kimkazandi.com
+ minecraftforge.net
+ impotsurlerevenu.org
+ subtext.com
+ oferty.dsautomobiles.pl
+ prompt
+ ztzacom_detect_ublock_using_ztprotect
+ quora.com
+ prepinsta.com
+ loginhit.com.ng
+ cda-hd.cc
+ hqq.to
+ json2csharp.com
+ diariodaregiao.com.br
+ taufiqhdyt.com
+ szkolawohyn.pl
+ newsforbolly.org
+ nextplatform.com
+ giromarilia.com.br
+ free-barcode-generator.net
+ ://lostmediawiki.com
+ promobit.com.br
+ liveroger.com
+ mediafax.ro
+ online2pdf.com
+ bdb.com.pl
+ ping.eu
+ safetxt.net
+ 1fichier.com
+ ://release-apk.com
+ sokolow-mlp.pl
+ ://naver.com
+ bendigoadvertiser.com.au
+ fatgirlskinny.net
+ economica.net
+ kuroko-analyze.com
+ raqmedia.com
+ ://blogspot.com
+ ://blogspot.com
+ dailynewsview.com
+ ://us.com
+ cyberspace.world
+ dztechphone.com
+ hotpornfile.org
+ empregoestagios.com
+ pornhd8k.net
+ e-sushi.fr
+ evasion-online.com
+ exclusifvoyages.com
+ experciencia.com
+ everydaynewinfo.com
+ fraudnavi.com
+ javbest.xyz
+ javbix.com
+ javgrab.com
+ funivie.org
+ tiktok.com
+ polsatnews.pl
+ android1pro.com
+ world4.eu
+ ggulpass.com
+ goodbakery.ru
+ 2hbn.com
+ farklifarkli.com
+ mail.inbox.lv
+ naijagists.com
+ nandedbazaar.com
+ naukridisha.in
+ northumberland-walks.co.uk
+ nydailyquote.com
+ objectivequiz.com
+ ouasafat.com
+ teamaretuza.com
+ musicindustryhowto.com
+ paesifantasma.it
+ payeer-gift.ru
+ theepochtimes.com
+ reflectim.fr
+ sdelatotoplenie.ru
+ sachonthi.com
+ significatocanzoni.it
+ accuweather.com
+ datadikdasmen.com
+ zdravenportal.eu
+ chessimprover.com
+ novagente.pt
+ ://blogspot.com
+ talpo.it
+ th-world.com
+ thezealots.org
+ ://howfn.com
+ ://blogspot.com
+ wasza-farma.pl
+ wouterplanet.com
+ erexams.com
+ deportealdia.live
+ htmlgames.com
+ pbinfo.ro
+ ://googlesyndication.com
+ vedantu.com
+ gmod-servers.com
+ pcso-lottoresults.com
+ freedomoutpost.com
+ asiatv.online
+ fmovies.*
+ lcpdfr.com
+ comprerural.com
+ arlinadzgn.com
+ stowarzyszenie-impuls.eu
+ iovivoatenerife.it
+ whatfontis.com
+ viveretenerife.com
+ skandynawiainfo.pl
+ sklep-agroland.pl
+ kangmartho.com
+ techjunkie.com
+ solotrend.net
+ goalup.live
+ hulnews.top
+ quora.com
+ wired.com
+ oferty.dsautomobiles.pl
+ serch01.biz
+ scrolller.com
+ cambiarevita.eu
+ wzamrani.com
+ xtv.cz
+ otakudesu.*
+ puhekupla.com
+ promotor.pl
+ citroen.pl
+ peugeot.pl
+ polagriparts.pl
+ protocol.com
+ tritinia.com
+ fakechatapp.com
+ toonytool.com
+ enttechub.com
+ nordkorea-info.de
+ battle-one.com
+ geotips.net
+ korona.co.jp
+ theblaze.com
+ promotor-poz.kylos.pl
+ novelism.jp
+ bemoneyaware.com
+ cm.g.doubleclick.net
